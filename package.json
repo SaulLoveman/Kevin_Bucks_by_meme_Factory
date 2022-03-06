@@ -1,8 +1,8 @@
 {
-  "name": "KEVINS HOUSE",
+  "name": "Kevin Buckz",
   "homepage": ".",
   "version": "1.0.0",
-  "description": "KEVIN CAME TO SAVE KIDS OFF RUGS",
+  "description": "kevin came to save kids from rugs",
   "private": true,
   "dependencies": {
     "react": "^17.0.2",
