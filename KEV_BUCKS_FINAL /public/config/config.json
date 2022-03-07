@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x15c57723cba5a8D55D8BAFdE10D75053a33688ef",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x15c57723cba5a8D55D8BAFdE10D75053a33688ef",
+  "CONTRACT_ADDRESS": "0xEe3d3C12b9Fc04A078feC8Eb15d2F5E7465fd80F",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xEe3d3C12b9Fc04A078feC8Eb15d2F5E7465fd80F",
   "NETWORK": {
     "NAME": "ethereum",
     "SYMBOL": "eth",
     "ID": 1
   },
-  "NFT_NAME": "KEVIN BUCKZ",
+  "NFT_NAME": "Kevin Buckz",
   "SYMBOL": "KBUCKZ",
   "MAX_SUPPLY": 1069,
   "WEI_COST": 11000000000000000,
   "DISPLAY_COST": 0.011,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnet.opensea.io/collection/kevin_buckz",
+  "MARKETPLACE_LINK": "https://testnet.opensea.io/collection/kevin-bucks-by-meme-factory-v2",
   "SHOW_BACKGROUND": true
 }
